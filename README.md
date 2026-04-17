@@ -17,3 +17,5 @@ There is support for:
 | Telegram   | No profile data |
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/941bbf9a-e7ed-477c-82cd-4cedd58d16ad" />
+
+You can view my social links at: https://mr-expence.github.io/socials
